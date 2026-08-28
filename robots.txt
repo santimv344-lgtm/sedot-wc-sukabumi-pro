@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://santimv344-lgtm.github.io/sedot-wc-sukabumi/sitemap.xml
